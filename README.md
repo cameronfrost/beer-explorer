@@ -1,1 +1,1 @@
-# Beer Explorer
+# Punk API Beer Explorer App
